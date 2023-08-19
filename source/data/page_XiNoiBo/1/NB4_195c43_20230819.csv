@@ -1,0 +1,4 @@
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xút),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
+1,610,Xi vàng,2,Kiềng,4c746,,4c73,,,,,,,,
+2,610,Xi vàng,46,Dây,118c034,117c985,117c408,,,,,,,-1p28 + 1p12,thay khóa
+3,610,Xi vàng,26,Lắc,72c652,72c614,72c392,,,,,,,,
