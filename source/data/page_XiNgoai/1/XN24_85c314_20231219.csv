@@ -1,0 +1,16 @@
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
+1,610,Xi 2-3 màu,2,Lắc,11c176,11c088,,,,,,,,,
+2,610,Xi 2-3 màu,1,Vòng,5c72,5c688,,,,,,,,,
+3,Ý,Xi hồng,2,Vòng,4c826,4c788,,,,,,,,,
+4,Ý,Xi hồng,1,Lắc,4c564,4c546,,,,,,,,,
+5,Ý,Xi trắng,2,Vòng,8c004,7c952,,,,,,,,,
+6,Ý,Xi trắng,5,Nhẫn,7c526,7c412,,,,,,,,,
+7,Ý,Xi trắng,2,Mặt,1c332,1c31,,,,,,,,,
+8,Ý,Xi trắng,12,Bông,8c524,8c428,,,,,,,,,
+9,Ý,Xi trắng,7,Dây,4c682,4c662,,,,,,,,,
+10,416,Xi trắng,3,Lắc,2c696,2c678,,,,,,,,,
+11,416,Xi trắng,13,Nhẫn,13c536,13c176,,,,,-1,-2c726,rớt hột baguette,,
+12,416,Xi trắng,7,Bông,2c616,2c596,,,,,,,,-6li2 + 8li8,thay đít bông
+13,416,Xi trắng,8,Mặt,4c386,4c322,,,,,,,,,
+14,416,Xi trắng,1,Vòng,1c786,1c746,,,,,,,,,
+15,416,Xi trắng,5,Dây,3c948,3c938,,,,,,,,,
