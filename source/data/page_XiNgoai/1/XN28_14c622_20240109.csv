@@ -1,6 +1,6 @@
 STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
 1,610,Xi 2-3 màu,1,Vòng,3c384,3c38,,,,,,,,,
-2,610,Xi 2-3 màu,2,Nhẫn,5c286,5c258,,,,,-1,-1c85,rớt hột,,
-3,610,Xi 2-3 màu,1,Bông,8p28,8p2,,,,,-1,-8p2,lủng,,
+2,610,Xi 2-3 màu,2,Nhẫn,5c286,5c258,,,,,-1.0,-1c85,rớt hột,,
+3,610,Xi 2-3 màu,1,Bông,8p28,8p2,,,,,-1.0,-8p2,lủng,,
 4,610,Xi 2-3 màu,3,Mặt,2c726,2c718,,,,,,,,,
 5,610,Xi 2-3 màu,2,Lắc,2c398,2c39,,,,,,,,,
