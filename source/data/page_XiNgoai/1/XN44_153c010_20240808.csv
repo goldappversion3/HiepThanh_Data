@@ -1,5 +1,5 @@
 STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)",Số món(thay thế),Trọng lượng(thay thế) ,Lý do(thay thế),Số món(phụ kiện),Trọng lượng(phụ kiện) ,Lý do(phụ kiện)
-1,750gram,Xi trắng,11,Dây,19c454,19c304,,,,910,,,,,,,,,,,
+1,750gram,Xi trắng,11,Dây,19c454,19c304,,,,910,,,,,,,,,,-0g41,
 2,750gram,Xi trắng,9,Lắc,18c14,18c018,,,,820,,,,,,,,,,,
 3,750gram,Xi trắng,1,Vòng,3c878,3c84,,,,150,,,,,,,,,,,
 4,750gram,Xi trắng,4,Mặt,2c704,2c676,,,,100,,,,,,,,,,,
