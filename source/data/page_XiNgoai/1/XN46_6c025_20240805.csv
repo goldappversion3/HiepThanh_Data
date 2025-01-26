@@ -1,2 +1,2 @@
-STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)",Số món(thay thế),Trọng lượng(thay thế) ,Lý do(thay thế),Số món(phụ kiện),Trọng lượng(phụ kiện) ,Lý do(phụ kiện)
-1,416,Xi 2-3 màu,5,Dây,6c025,6c,-1,-1c02,,,-1,1c05,,,,1,1c52,test  hàng hư hỏng,1,5p09,test phụ kiện
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
+1,416,Xi 2-3 màu,5,Dây,6c025,6c,-1,-1c02,,,-1,1c05,,,
