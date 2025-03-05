@@ -9,7 +9,7 @@ STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu
 8,750gram,Xi trắng,4,Vòng,11c77,11c652,,,,600,,,,,
 9,750gram,Xi trắng,7,Lắc,9c628,9c566,,,,560,,,,,
 10,750gram,Xi trắng,15,Dây,21c698,21c592,,,,1090,,,,,
-11,750gram,Xi trắng,26,Bông,15c504,15c428,,,,650,-1+1,-1p26 +1p34,,,thay đít bông
+11,750gram,Xi trắng,26,Bông,15c504,15c428,-1+1,-1p26+1p34,thay đít bông,650,,,,,
 12,750gram,Xi trắng,12,Mặt,5c084,5c074,,,,300,,,,,
 13,750,Xi trắng,2,Nhẫn cưới xoàn,2c678,2c622,,,,100,,,,,
 14,610,Xi 2-3 màu,1,Vòng,2c382,2c376,,,,150,,,,,
