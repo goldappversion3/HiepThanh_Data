@@ -1,0 +1,15 @@
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
+1,416,Xi trắng,14,Vòng,27c11,26c764,,,,2010,-1,-1c806,hu chau,,
+2,416,Xi trắng,23,Lắc,24c656,24c42,,,,2360,-2,-2c81,"rot hot,gay",,
+3,416,Xi trắng,35,Dây,50c054,49c818,,-1p4,thay khoa,3710,,,,+1p14,thay khoa
+4,416,Xi trắng,87,Nhẫn,71c078,70c24,,,,3255,-3,-2c4,"gay chau,rot hot",,
+5,416,Xi trắng,44,Mặt,14c428,14c288,,,,1540,,,,,
+6,416,Xi trắng,58,Bông,26c676,26c388,,-5li8,thay dit bong,2030,-2,-7p2,"mo muc may, gay chau",+5li4,thay dit bong
+7,750gram,Xi trắng,10,Nhẫn,10c78,10c65,,,,330,,,,,
+8,750gram,Xi trắng,9,Mặt,3c894,3c858,,,,270,,,,,
+9,750gram,Xi trắng,22,Bông,12c028,11c896,,,,670,-2,-6p05,mo muc may,,
+10,750gram,Xi trắng,5,Lắc,6c396,6c328,,,,440,,,,,
+11,750gram,Xi trắng,19,Dây,30c966,30c8,,,,1930,,,,,
+12,610,Xi 2-3 màu,1,Vòng,1c192,1c188,,,,250,,,,,
+13,610,Xi 2-3 màu,1,Mặt,6p22,6p18,,,,60,,,,,
+14,610,Xi 2-3 màu,3,Dây,9c962,9c912,,-1li4,reo day,900,,,,,
