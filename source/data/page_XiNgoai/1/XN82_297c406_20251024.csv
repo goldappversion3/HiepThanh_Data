@@ -1,0 +1,18 @@
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng),"Trọng lượng   (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)"
+1,416,Xi trắng,98,Nhẫn,86c406,85c39,,,,3680,-2,-7p04,gãy,,
+2,416,Xi trắng,9,Vòng,16c932,16c71,,,,1350,,,,,
+3,416,Xi trắng,27,Lắc,28c402,28c238,,,,2380,-1,-1c962,ố,,
+4,416,Xi trắng,36,Mặt,11c602,11c404,,,,1080,,,,,
+5,416,Xi trắng,26,Dây,28c598,28c47,,-3li2,thay khóa,2100,,,,+3li,thay khóa
+6,416,Xi trắng,60,Bông,29c256,29c038,,,,2100,-4,-2c554,gãy,,
+7,750gram,Xi trắng,4,Vòng,11c488,11c29,,,,560,,,,,
+8,750gram,Xi trắng,2,Lắc,2c202,2c18,,,,190,,,,,
+9,750gram,Xi trắng,21,Nhẫn,32c732,32c344,,,,780,-1,-1c752,gãy,,
+10,750gram,Xi trắng,15,Mặt,6c296,6c2,,,,450,-1,-5p8,gãy,,
+11,750gram,Xi trắng,24,Bông,12c032,11c768,,,,720,-1,-1p6,gãy,,
+12,750gram,Xi trắng,12,Dây,15c198,14c974,,-2li8,thay khóa,1150,,,,+1p9,thay khóa
+13,750gram,Xi hồng,1,Nhẫn,1c514,1c512,,,,10,,,,,
+14,610,Xi 2-3 màu,3,Nhẫn,8c03,8c004,,,,300,,,,,
+15,610,Xi 2-3 màu,1,Mặt,6p16,6p16,,,,60,,,,,
+16,610,Xi 2-3 màu,3,Lắc,3c332,3c332,,,,600,,,,,
+17,610,Xi 2-3 màu,1,Dây,2c778,2c778,,,,300,,,,,
